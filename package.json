@@ -1,0 +1,15 @@
+{
+	"name": "validation-yup-express",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:lamecksilva/validation-yup-express.git",
+	"author": "Lameck <lameck2@hotmail.com>",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.17.3",
+		"yup": "^0.32.11"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
+}
